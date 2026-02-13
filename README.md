@@ -90,7 +90,7 @@
 
 
 <p>&emsp;&emsp;Hi, I am Ashish. I love programming, photography, reading, and traveling.</p>
-<p>&emsp;&emsp;I am passionate about computer science and IT, aiming to become an excellent developer.</p>
+<p>&emsp;&emsp; I am passionate about computer science and IT, aiming to become an excellent developer.</p>
 
 </td></tr>
 
