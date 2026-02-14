@@ -1,6 +1,6 @@
 ###
 
-<h3>loves programming </h3>
+<h3>loves programming 😊</h3>
 
 - 🌱 I'm currently learning **Web Development**
 
