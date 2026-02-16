@@ -2,7 +2,7 @@
 
 <h3>loves programming 😊</h3>
 
-- 🌱 I'm currently learning **Web Development**
+- 🌱 I'm currently learning **Web Development **
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashish017-17](https://github.com/ashish017-17)
 
